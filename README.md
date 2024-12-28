@@ -31,13 +31,6 @@ A Chrome extension that allows you to easily switch between different proxy conf
 
 The extension is built using vanilla JavaScript and Chrome Extension APIs.
 
-### Project Structure
-├── js/
-│ ├── background.js # Background service worker
-│ ├── content.js # Content script
-│ └── options.js # Options page logic
-├── manifest.json # Extension manifest
-└── options.html # Options page HTML
 
 
 ## License
